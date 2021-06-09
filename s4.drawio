@@ -1,15 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T11:45:36.480Z" agent="5.0 (Windows)" etag="yZEsV1c8tdCehfYoWwiO" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T11:48:24.817Z" agent="5.0 (Windows)" etag="0hu9bV64bmexjEsoFXdC" version="14.7.6" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="723" dy="367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="REXaPxcNixPqJUkJj-JM-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="572" y="450" width="30" height="60" as="geometry" />
+        <mxCell id="REXaPxcNixPqJUkJj-JM-1" value="Fiori felhasználó" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="572" y="422" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="REXaPxcNixPqJUkJj-JM-2" value="Fiori Frontend&#xa;" style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="522" y="264" width="126" height="94" as="geometry">
+        <mxCell id="REXaPxcNixPqJUkJj-JM-2" value="S4 HANA ERP" style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="302" y="169" width="126" height="94" as="geometry">
             <mxRectangle x="487" y="165" width="127" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REXaPxcNixPqJUkJj-JM-5" value="Fiori Frontend&#xa;" style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="524" y="286" width="126" height="94" as="geometry">
+            <mxRectangle x="487" y="165" width="127" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REXaPxcNixPqJUkJj-JM-8" value="SAP TM " style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="734" y="169" width="126" height="94" as="geometry">
+            <mxRectangle x="734" y="169" width="127" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REXaPxcNixPqJUkJj-JM-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="522" y="288" as="sourcePoint" />
+            <mxPoint x="427" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REXaPxcNixPqJUkJj-JM-10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=14;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="REXaPxcNixPqJUkJj-JM-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="652" y="287" as="sourcePoint" />
+            <mxPoint x="709" y="266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

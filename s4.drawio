@@ -1,26 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T11:48:24.817Z" agent="5.0 (Windows)" etag="0hu9bV64bmexjEsoFXdC" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T11:51:08.338Z" agent="5.0 (Windows)" etag="Gn2pU32jCpICG0hJn4oi" version="14.7.6" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="723" dy="367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="REXaPxcNixPqJUkJj-JM-1" value="Fiori felhasználó" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="572" y="422" width="30" height="60" as="geometry" />
+          <mxGeometry x="572" y="403" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="REXaPxcNixPqJUkJj-JM-2" value="S4 HANA ERP" style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="REXaPxcNixPqJUkJj-JM-2" value="S4 HANA ERP" style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="302" y="169" width="126" height="94" as="geometry">
             <mxRectangle x="487" y="165" width="127" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="REXaPxcNixPqJUkJj-JM-5" value="Fiori Frontend&#xa;" style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="REXaPxcNixPqJUkJj-JM-5" value="Fiori Frontend&#xa;" style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="524" y="286" width="126" height="94" as="geometry">
             <mxRectangle x="487" y="165" width="127" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="REXaPxcNixPqJUkJj-JM-8" value="SAP TM " style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="734" y="169" width="126" height="94" as="geometry">
+        <mxCell id="REXaPxcNixPqJUkJj-JM-8" value="SAP TM " style="swimlane;startSize=0;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="734" y="169" width="130" height="94" as="geometry">
             <mxRectangle x="734" y="169" width="127" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="REXaPxcNixPqJUkJj-JM-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;TM engedélyezések&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;fontColor=#990000;" vertex="1" parent="REXaPxcNixPqJUkJj-JM-8">
+          <mxGeometry x="6" y="38" width="118" height="18" as="geometry" />
         </mxCell>
         <mxCell id="REXaPxcNixPqJUkJj-JM-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -33,6 +36,12 @@
             <mxPoint x="652" y="287" as="sourcePoint" />
             <mxPoint x="709" y="266" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="REXaPxcNixPqJUkJj-JM-12" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;BMIg engedélyezés&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;PO engedélyezés&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="183" width="116" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="REXaPxcNixPqJUkJj-JM-14" value="&lt;div&gt;MyInbox-ban&lt;/div&gt;&lt;div&gt;látható&lt;/div&gt;&lt;div&gt;feladatok&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="547" y="309.5" width="80" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

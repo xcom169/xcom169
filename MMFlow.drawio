@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T07:23:42.742Z" agent="5.0 (Windows)" etag="zKNyYZkpiyxR3pKMaiuq" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T07:26:37.594Z" agent="5.0 (Windows)" etag="llyLsBy29BfDGmNv76GS" version="14.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1108" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,19 +15,50 @@
         <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-0" value="Beszerzési igény jóváhagyása" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JDw_Z1B5sLUTi2Ja_XlJ-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-2" value="Beszerzési igény létrehozása" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="270" width="120" height="40" as="geometry" />
+        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-2" value="Beszerzési igény átforgatása beserzési rendeléssé" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="255" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-3" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="289.5" as="sourcePoint" />
             <mxPoint x="330" y="289.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="289.5" as="sourcePoint" />
+            <mxPoint x="510" y="289.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-5" value="Beszerzési rendelés létrehozása" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="265" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="289.5" as="sourcePoint" />
+            <mxPoint x="670" y="289.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-7" value="&lt;div&gt;Beszerzési rendelés engedélyezése&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="265" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-8" value="TIG létrehozása" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="265" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="289.5" as="sourcePoint" />
+            <mxPoint x="1010" y="289.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-11" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="289.5" as="sourcePoint" />
+            <mxPoint x="840" y="289.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDw_Z1B5sLUTi2Ja_XlJ-12" value="&lt;div&gt;Beérkező számla köynvelése&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="265" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
